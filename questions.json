@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "type": "single",
+            "options": ["London", "Berlin", "Paris", "Madrid"],
+            "correct": [2] 
+        },
+        {
+            "question": "JavaScript is the same as Java.",
+            "type": "boolean",
+            "options": ["True", "False"],
+            "correct": [1] 
+        },
+        {
+            "question": "10 is greater than 5 ?",
+            "type": "boolean",
+            "options": ["True", "False"],
+            "correct": [0] 
+        },
+        {
+            "question": "Which of the following are JavaScript frameworks? (Select all that apply)",
+            "type": "multiple",
+            "options": ["React", "Django", "Vue.js", "Flask", "Angular"],
+            "correct": [0, 2, 4]
+        },
+        {
+            "question": "Which are programming languages? (Select all that apply)",
+            "type": "multiple",
+            "options": ["HTML", "Python", "CSS", "JavaScript", "Java"],
+            "correct": [1, 3, 4]  
+        },
+        {
+            "question": "Which of these are frontend frameworks?",
+            "type": "multiple",
+            "options": ["React", "Node.js", "Angular", "Express", "Vue.js"],
+            "correct": [0, 2, 4]  
+        },
+        {
+            "question": "What are the primary colors?",
+            "type": "multiple",
+            "options": ["Red", "Green", "Blue", "Yellow", "Purple"],
+            "correct": [0, 2, 3]  
+        },
+        {
+            "question": "Which of the following are database management systems?",
+            "type": "multiple",
+            "options": ["MySQL", "MongoDB", "React", "PostgreSQL", "Express"],
+            "correct": [0, 1, 3]  
+        },
+        {
+            "question": "Which are valid HTTP methods?",
+            "type": "multiple",
+            "options": ["GET", "SEND", "POST", "FETCH", "DELETE"],
+            "correct": [0, 2, 4] 
+        },
+        {
+            "question": "True or False: The following are JavaScript data types.",
+            "type": "boolean",
+            "options": ["String", "Number", "Boolean", "All of the above"],
+            "correct": [3] 
+        }
+    ]
+}
