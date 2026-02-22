@@ -2,7 +2,6 @@
 
 A modern, responsive quiz application built with vanilla JavaScript that supports both single-answer and multiple-answer questions. Perfect for testing knowledge with immediate feedback and detailed review mode.
 
-![Quiz App Screenshot](https://via.placeholder.com/800x400?text=Quiz+App+Screenshot)
 
 ## ✨ Features
 
